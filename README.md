@@ -20,3 +20,10 @@ Instead of overloading the existing “thing” with additional properties, **Ku
 
 ![](https://i.imgur.com/nE9YkFx.png)
 
+
+
+# Linux Kernel Namespaces
+
+- PID: inside a container we see only the container processes and not all the processes on the host
+- mount: inside a container we see only the mounts of container and not the hosts
+- network: 
